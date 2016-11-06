@@ -1,40 +1,128 @@
 {
    "wallpapers": [
+     
       {
-         "author": "Tom Wellington",
-         "url": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch.jpg",
-         "name": "East Branch",
-         "thumbnail": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch_thumb.jpg"
-      },
+   "wallpapers": [
+      
+      
       {
-         "author": "Tom Wellington",
-         "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
-         "name": "Heads Up",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
-      },
-      {
-         "author": "Tom Wellington",
-         "url": "https://github.com/afollestad/polar_json/raw/master/flamingos.jpg",
-         "name":" Flamingos",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/flamingos_thumb.jpg"
-      },
-      {
-         "author": "Tom Wellington",
-         "url": "https://github.com/afollestad/polar_json/raw/master/forest_one.png",
-         "name": "Forest",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/forest_one_thumb.jpg"
-      },
-      {
-         "author": "Tom Wellington",
-         "url": "https://github.com/afollestad/polar_json/raw/master/tree_farm.jpg",
-         "name": "Tree Farm",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/tree_farm_thumb.jpg"
-      },
-      {
-         "author":"Tom Wellington",
-         "url":"https://github.com/afollestad/polar_json/raw/master/tree_tops.jpg",
-         "name":"Tree Tops",
-         "thumbnail":"https://github.com/afollestad/polar_json/raw/master/tree_tops_thumb.jpg"
+         "author": "UnSplash",
+         "url": "https://raw.githubusercontent.com/pro-apps/wall-json/master/1.jpg",
+         "name": "Dark1",
+         "thumbnail": "https://raw.githubusercontent.com/pro-apps/wall-json/master/11.png"
+      }, 
+{
+         "author": "UnSplash",
+         "url": "https://raw.githubusercontent.com/pro-apps/wall-json/master/2.jpg",
+         "name": "Dark2",
+         "thumbnail": "https://raw.githubusercontent.com/pro-apps/wall-json/master/21.png"
+      }, 
+{
+         "author": "UnSplash",
+         "url": "https://raw.githubusercontent.com/pro-apps/wall-json/master/3.jpg",
+         "name": "Dark3",
+         "thumbnail": "https://raw.githubusercontent.com/pro-apps/wall-json/master/31.png"
+      }, 
+{
+         "author": "UnSplash",
+         "url": "https://raw.githubusercontent.com/pro-apps/wall-json/master/4.jpg",
+         "name": "Dark4",
+         "thumbnail": "https://raw.githubusercontent.com/pro-apps/wall-json/master/41.png"
+      }, 
+{
+         "author": "UnSplash",
+         "url": "https://raw.githubusercontent.com/pro-apps/wall-json/master/5.jpg",
+         "name": "Dark5",
+         "thumbnail": "https://raw.githubusercontent.com/pro-apps/wall-json/master/51.png"
+      }, 
+{
+         "author": "UnSplash",
+         "url": "https://raw.githubusercontent.com/pro-apps/wall-json/master/6.jpg",
+         "name": "Dark6",
+         "thumbnail": "https://raw.githubusercontent.com/pro-apps/wall-json/master/61.png"
+      }, 
+{
+         "author": "UnSplash",
+         "url": "https://raw.githubusercontent.com/pro-apps/wall-json/master/7.jpg",
+         "name": "Dark7",
+         "thumbnail": "https://raw.githubusercontent.com/pro-apps/wall-json/master/71.png"
+      }, 
+{
+         "author": "UnSplash",
+         "url": "https://raw.githubusercontent.com/pro-apps/wall-json/master/8.jpg",
+         "name": "Dark8",
+         "thumbnail": "https://raw.githubusercontent.com/pro-apps/wall-json/master/81.png"
+      }, 
+{
+         "author": "UnSplash",
+         "url": "https://raw.githubusercontent.com/pro-apps/wall-json/master/9.jpg",
+         "name": "Dark9",
+         "thumbnail": "https://raw.githubusercontent.com/pro-apps/wall-json/master/91.png"
+      }, 
+{
+         "author": "UnSplash",
+         "url": "https://raw.githubusercontent.com/pro-apps/wall-json/master/10.jpg",
+         "name": "Dark10",
+         "thumbnail": "https://raw.githubusercontent.com/pro-apps/wall-json/master/101.png"
+      }, 
+{
+         "author": "UnSplash",
+         "url": "https://raw.githubusercontent.com/pro-apps/wall-json/master/11.jpg",
+         "name": "Dark11",
+         "thumbnail": "https://raw.githubusercontent.com/pro-apps/wall-json/master/111.png"
+      }, 
+{
+         "author": "UnSplash",
+         "url": "https://raw.githubusercontent.com/pro-apps/wall-json/master/12.jpg",
+         "name": "Dark12",
+         "thumbnail": "https://raw.githubusercontent.com/pro-apps/wall-json/master/121.png"
+      }, 
+{
+         "author": "UnSplash",
+         "url": "https://raw.githubusercontent.com/pro-apps/wall-json/master/13.jpg",
+         "name": "Dark13",
+         "thumbnail": "https://raw.githubusercontent.com/pro-apps/wall-json/master/131.png"
+      }, 
+{
+         "author": "UnSplash",
+         "url": "https://raw.githubusercontent.com/pro-apps/wall-json/master/14.jpg",
+         "name": "Dark14",
+         "thumbnail": "https://raw.githubusercontent.com/pro-apps/wall-json/master/141.png"
+      }, 
+{
+         "author": "UnSplash",
+         "url": "https://raw.githubusercontent.com/pro-apps/wall-json/master/15.jpg",
+         "name": "Dark15",
+         "thumbnail": "https://raw.githubusercontent.com/pro-apps/wall-json/master/151.png"
+      }, 
+{
+         "author": "UnSplash",
+         "url": "https://raw.githubusercontent.com/pro-apps/wall-json/master/16.jpg",
+         "name": "Dark16",
+         "thumbnail": "https://raw.githubusercontent.com/pro-apps/wall-json/master/161.png"
+      }, 
+{
+         "author": "UnSplash",
+         "url": "https://raw.githubusercontent.com/pro-apps/wall-json/master/17.jpg",
+         "name": "Dark17",
+         "thumbnail": "https://raw.githubusercontent.com/pro-apps/wall-json/master/171.png"
+      }, 
+{
+         "author": "UnSplash",
+         "url": "https://raw.githubusercontent.com/pro-apps/wall-json/master/18.jpg",
+         "name": "Dark18",
+         "thumbnail": "https://raw.githubusercontent.com/pro-apps/wall-json/master/181.png"
+      }, 
+
+      
+       
+         
+         {
+         "author": "Pixles",
+         "url": "https://raw.githubusercontent.com/pro-apps/wall-json/master/19.jpg",
+         "name": "Dark19",
+         "thumbnail": "https://raw.githubusercontent.com/pro-apps/wall-json/master/191.png"
       }
+      
    ]
 }
